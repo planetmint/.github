@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Steps To Reproduce the behavior**
-
+A descriptive and precise list of action on how to reproduce the bug or the observed behvaviour.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.

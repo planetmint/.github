@@ -1,29 +1,29 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: '[Bug]:'
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Describe the bug
+A clear and concise description of what you are experiencing.
 
-**Steps To Reproduce the behavior**
+## Steps To Reproduce the behavior
 A descriptive and precise list of action on how to reproduce the bug or the observed behvaviour.
 
-**Expected behavior**
+## Expected behavior
 A clear and concise description of what you expected to happen.
 
-**Logs or terminal output**
+## Logs or terminal output
 If applicable, add add textual content to help explain your problem.
 
-**Environment:**
+## Environment:
  - Distribution: [e.g. Ubuntu 22.04]
  - Software version: [e.g. Planetmint 1.0.1]
  - database + version: [e.g. Tarantool 2.8.1]
  - Toolchain version: [e.g. Python 3.9.3]
 
-**Additional context**
+## Additional context
 Add any other context about the problem here.

@@ -2,7 +2,7 @@
 name: User story
 about: A description of a user interaction
 title: ''
-labels: ''
+labels: 'user story'
 assignees: ''
 --- 
 

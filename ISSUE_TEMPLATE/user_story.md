@@ -1,7 +1,7 @@
 ---
 name: User story
 about: A description of a user interaction
-title: ''
+title: '[User story]:'
 labels: 'user story'
 assignees: ''
 --- 
